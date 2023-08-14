@@ -8,12 +8,8 @@ import {getFirestore} from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB32157bXXAF1H4pSt4J0CBVwgrv17ye-o",
-  authDomain: "image-gallery-project.firebaseapp.com",
-  projectId: "image-gallery-project",
-  storageBucket: "image-gallery-project.appspot.com",
-  messagingSenderId: "712340859833",
-  appId: "1:712340859833:web:79c9e8e11bf36141a3e468"
+
+  
 };
 
 // Initialize Firebase
